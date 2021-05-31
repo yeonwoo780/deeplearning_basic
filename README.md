@@ -1,5 +1,11 @@
 ## 딥러닝
 
+-----
+
+### Chapter
+
+-----
+
 [deeplearning_Basic](https://nbviewer.jupyter.org/github/yeonwoo780/deeplearning_basic/blob/test/Chapter1~9/Chapter_1.ipynb)
 
 
@@ -38,4 +44,19 @@
 
 [모델 설계하기](https://nbviewer.jupyter.org/github/yeonwoo780/deeplearning_basic/blob/test/Chapter10~19/Chapter_10.ipynb)
 
+
+
+[데이터 다루기](https://github.com/yeonwoo780/deeplearning_basic/blob/test/Chapter10~19/Chapter_11.ipynb)
+
+
+
+[다중 분류문제 해결](https://github.com/yeonwoo780/deeplearning_basic/blob/test/Chapter10~19/Chapter_12.ipynb)
+
+
+
+[과적합 피하기](https://github.com/yeonwoo780/deeplearning_basic/blob/test/Chapter10~19/Chapter_13.ipynb)
+
+
+
+[베스트 모델 만들기](https://github.com/yeonwoo780/deeplearning_basic/blob/test/Chapter10~19/Chapter_14.ipynb)
 
