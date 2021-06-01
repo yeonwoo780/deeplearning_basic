@@ -2,7 +2,7 @@
 
 -----
 
-### Chapter
+### Chapter 1~9
 
 -----
 
@@ -40,23 +40,39 @@
 
 [신경망에서 딥러닝으로](https://nbviewer.jupyter.org/github/yeonwoo780/deeplearning_basic/blob/test/Chapter1~9/Chapter_9.ipynb)
 
+-----
 
+### Chapter 10~19
+
+-----
 
 [모델 설계하기](https://nbviewer.jupyter.org/github/yeonwoo780/deeplearning_basic/blob/test/Chapter10~19/Chapter_10.ipynb)
 
 
 
-[데이터 다루기](https://github.com/yeonwoo780/deeplearning_basic/blob/test/Chapter10~19/Chapter_11.ipynb)
+[데이터 다루기](https://nbviewer.jupyter.org/github/yeonwoo780/deeplearning_basic/blob/test/Chapter10~19/Chapter_11.ipynb)
 
 
 
-[다중 분류문제 해결](https://github.com/yeonwoo780/deeplearning_basic/blob/test/Chapter10~19/Chapter_12.ipynb)
+[다중 분류문제 해결](https://nbviewer.jupyter.org/github/yeonwoo780/deeplearning_basic/blob/test/Chapter10~19/Chapter_12.ipynb)
 
 
 
-[과적합 피하기](https://github.com/yeonwoo780/deeplearning_basic/blob/test/Chapter10~19/Chapter_13.ipynb)
+[과적합 피하기](https://nbviewer.jupyter.org/github/yeonwoo780/deeplearning_basic/blob/test/Chapter10~19/Chapter_13.ipynb)
 
 
 
-[베스트 모델 만들기](https://github.com/yeonwoo780/deeplearning_basic/blob/test/Chapter10~19/Chapter_14.ipynb)
+[베스트 모델 만들기](https://nbviewer.jupyter.org/github/yeonwoo780/deeplearning_basic/blob/test/Chapter10~19/Chapter_14.ipynb)
+
+
+
+[선형회귀 적용하기](https://nbviewer.jupyter.org/github/yeonwoo780/deeplearning_basic/blob/test/Chapter10~19/Chapter_15.ipynb)
+
+
+
+[이미지 인식_CDN_1](https://nbviewer.jupyter.org/github/yeonwoo780/deeplearning_basic/blob/test/Chapter10~19/Chapter_16.ipynb)
+
+
+
+[이미지 인식_CDN_2](https://nbviewer.jupyter.org/github/yeonwoo780/deeplearning_basic/blob/test/Chapter10~19/Chapter_16_1.ipynb)
 
