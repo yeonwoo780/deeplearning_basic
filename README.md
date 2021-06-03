@@ -76,3 +76,15 @@
 
 [이미지 인식_CDN_2](https://nbviewer.jupyter.org/github/yeonwoo780/deeplearning_basic/blob/test/Chapter10~19/Chapter_16_1.ipynb)
 
+
+
+[딥러닝 자연어처리](https://nbviewer.jupyter.org/github/yeonwoo780/deeplearning_basic/blob/test/Chapter10~19/Chapter_17.ipynb)
+
+
+
+[시퀀스배열_순환신경망(RNN,LSTM)](https://nbviewer.jupyter.org/github/yeonwoo780/deeplearning_basic/blob/test/Chapter10~19/Chapter_18.ipynb)
+
+
+
+[비지도학습 신경망(GAN)](https://nbviewer.jupyter.org/github/yeonwoo780/deeplearning_basic/blob/test/Chapter10~19/Chapter_19.ipynb)
+
