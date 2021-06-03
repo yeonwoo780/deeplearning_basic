@@ -104,5 +104,3 @@
 
 [PyTorch_Gradient_Descent](https://nbviewer.jupyter.org/github/yeonwoo780/deeplearning_basic/blob/test/Pytorch/Lab_03_Deep_Look_at_Gradient_Descent.ipynb)
 
-
-
