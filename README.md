@@ -88,3 +88,19 @@
 
 [비지도학습 신경망(GAN)](https://nbviewer.jupyter.org/github/yeonwoo780/deeplearning_basic/blob/test/Chapter10~19/Chapter_19.ipynb)
 
+-----
+
+### PyTorch Deeplearning
+
+-----
+
+[PyTorch Basic](https://nbviewer.jupyter.org/github/yeonwoo780/deeplearning_basic/blob/test/Pytorch/Lab_01_tensor_manipulation.ipynb)
+
+
+
+[PyTorch_Linear_Regression](https://nbviewer.jupyter.org/github/yeonwoo780/deeplearning_basic/blob/test/Pytorch/Lab_02_linear_regression.ipynb)
+
+
+
+[PyTorch_Gradient_Descent](https://nbviewer.jupyter.org/github/yeonwoo780/deeplearning_basic/blob/test/Pytorch/Lab_03_Deep_Look_at_Gradient_Descent.ipynb)
+
