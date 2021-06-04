@@ -104,3 +104,15 @@
 
 [PyTorch_Gradient_Descent](https://nbviewer.jupyter.org/github/yeonwoo780/deeplearning_basic/blob/test/Pytorch/Lab_03_Deep_Look_at_Gradient_Descent.ipynb)
 
+
+
+[PyTorch Multivariate Linear Regression](https://nbviewer.jupyter.org/github/yeonwoo780/deeplearning_basic/blob/test/Pytorch/Lab_04_Multivariable_Linear_Regression.ipynb)
+
+
+
+[Pytorch Logistic Regression](https://github.com/yeonwoo780/deeplearning_basic/blob/test/Pytorch/Lab_05_Logistic_Regression.ipynb)
+
+
+
+[Pytorch Softmax Classification](https://github.com/yeonwoo780/deeplearning_basic/blob/test/Pytorch/Lab_06_Softmax_Classification.ipynb)
+
