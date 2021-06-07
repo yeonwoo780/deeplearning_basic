@@ -116,3 +116,15 @@
 
 [Pytorch Softmax Classification](https://github.com/yeonwoo780/deeplearning_basic/blob/test/Pytorch/Lab_06_Softmax_Classification.ipynb)
 
+
+
+[Pytorch Tip and Mnist](https://github.com/yeonwoo780/deeplearning_basic/blob/test/Pytorch/Lab_07_tips_and_mnist.ipynb)
+
+
+
+[Pytorch Perceptron](https://github.com/yeonwoo780/deeplearning_basic/blob/test/Pytorch/Lab_08_Perceptron.ipynb)
+
+
+
+[Pytorch Mnist](https://github.com/yeonwoo780/deeplearning_basic/blob/test/Pytorch/Lab_09_Mnist.ipynb)
+
