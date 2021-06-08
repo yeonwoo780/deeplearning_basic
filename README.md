@@ -128,3 +128,9 @@
 
 [Pytorch Mnist](https://github.com/yeonwoo780/deeplearning_basic/blob/test/Pytorch/Lab_09_Mnist.ipynb)
 
+-----
+
+### PyTorch CNN
+
+-----
+
