@@ -134,3 +134,15 @@
 
 -----
 
+[Pytorch Mnist CNN](https://github.com/yeonwoo780/deeplearning_basic/blob/test/Pytorch/CNN/Lab_10_mnist_cnn.ipynb)
+
+
+
+[Pytorch Advanced_CNN(VGG)](https://github.com/yeonwoo780/deeplearning_basic/blob/test/Pytorch/CNN/Lab_10_2_Advanced_CNN(VGG).ipynb)
+
+
+
+[Pytorch Advance-CNN(Resnet)](https://github.com/yeonwoo780/deeplearning_basic/blob/test/Pytorch/CNN/Lab_10_3_Advance-CNN(Resnet).ipynb)
+
+
+
